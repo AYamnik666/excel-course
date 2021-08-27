@@ -1,0 +1,5 @@
+создание папки
+создание репозитория в github
+.gitignore
+git init
+git add .
