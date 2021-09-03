@@ -1,2 +1,3 @@
-steps
+.steps
 node_modules
+dist
